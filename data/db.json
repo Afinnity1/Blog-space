@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Web development is the\n process of creating and maintaining websites. It can involve a wide range of actions, from coding and design to content management and web server administration.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Tech event",
+      "body": "Web development is the\n process of creating and maintaining websites. It can involve a wide range of actions, from coding and design to content management and web server administration.",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "dff7",
+      "title": "For all the digs",
+      "body": "virginia beach",
+      "author": "Mario"
+    },
+    {
+      "id": "468c",
+      "title": "Crotcheting",
+      "body": "she loves it ",
+      "author": "Mario"
+    },
+    {
+      "id": "b195",
+      "title": "front end development",
+      "body": "Is it still in demand? Yes",
+      "author": "Yoshi"
+    },
+    {
+      "id": "7f0f",
+      "title": "software engineers ",
+      "body": "what a profession",
+      "author": "mario"
+    },
+    {
+      "id": "abf4",
+      "title": "Deployed react app using firebase.",
+      "body": "Deploy complete",
+      "author": "mario"
+    },
+    {
+      "id": "186f",
+      "title": "hi there techies",
+      "body": "hello world",
+      "author": "mario"
+    }
+  ]
+}
